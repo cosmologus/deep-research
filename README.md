@@ -108,6 +108,12 @@ Run the research assistant:
 npm start
 ```
 
+Or run it with docker:
+
+```bash
+docker compose run --rm deep-research
+```
+
 You'll be prompted to:
 
 1. Enter your research query
